@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Git Reference Project - Clark</string>
+    <string name="filter2">commands. Long click an item to reset filter.</string>
+    <string name="filter1">Filtered by</string>
+    <string name="errMsg">Error extracting json from file:</string>
+    <string name="usg">Usage:</string>
+    <string name="secDiv">/</string>
+</resources>

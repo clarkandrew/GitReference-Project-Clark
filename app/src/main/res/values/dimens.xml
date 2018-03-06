@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottomTextMarg">15dp</dimen>
+    <dimen name="botTextSize">17sp</dimen>
+    <dimen name="midTextMarge">6dp</dimen>
+    <dimen name="topTextMarg">10dp</dimen>
+    <dimen name="topTextSize">24sp</dimen>
+    <dimen name="mainPadding">10dp</dimen>
+    <dimen name="mainMargin">10dp</dimen>
+    <dimen name="divHeight">2dp</dimen>
+</resources>
